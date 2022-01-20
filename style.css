@@ -19,7 +19,7 @@ body{
         left: 0%;
     }
     50%{
-        left: 60%;
+        left: 100%;
         transform: rotate(360deg);
     }
     100%{
