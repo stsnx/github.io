@@ -7,7 +7,7 @@
 
 body{
     background: url("https://c.tenor.com/3Umw4_D5vpMAAAAC/aru-ai.gif");
-    repeat:none;
+    background-repeat:no-repeat;
     font-size: 50px;
     text-align: center;
     color: aliceblue;
