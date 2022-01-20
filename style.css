@@ -8,9 +8,10 @@
 body{
     background: url("https://c.tenor.com/3Umw4_D5vpMAAAAC/aru-ai.gif");
     background-repeat:no-repeat;
+    background-size: 100%;
     font-size: 50px;
     text-align: center;
-    color: aliceblue;
+    color: black;
 }
 #madame{
     height: 300px;
@@ -20,7 +21,7 @@ body{
         left: 0%;
     }
     50%{
-        left: 90%;
+        left: 77%;
         transform: rotate(360deg);
     }
     100%{
